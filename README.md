@@ -46,5 +46,7 @@ Roteiro de certificações almejadas para validar o conhecimento técnico:
 📬 Contato
 LinkedIn: https://www.linkedin.com/in/aline-j-santos/
 Portfólio: https://github.com/dev-alini/projeto_mulheres_refugiadas/blob/main/README.md
+
 https://github.com/dev-alini/amigo_secreto/blob/main/README.md
+
 "A curiosidade e a vontade de entender como as coisas funcionam são as maiores qualidades de um hacker."
